@@ -1,0 +1,11 @@
+# Unit 5: Writing Classes
+- Anatomy of a Class
+- Constructors
+- Documentation with Comments
+- Accessor Methods
+- Mutator Methods
+- Writing Methods
+- Static Variables and Methods
+- Scope and Access
+- `this` Keyword
+- Ethical and Social Implications of Computing Systems
