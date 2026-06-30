@@ -21,3 +21,6 @@ target/
 out/
 bin/
 build/
+
+# Instructor Notes
+INSTRUCTOR.md
